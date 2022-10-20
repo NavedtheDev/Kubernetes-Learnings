@@ -1,6 +1,6 @@
 # Kubernetes-Learnings
 
-Hey everyone, I will be adding my kubernetes learnings here. 
+Hey everyone, I will be sharing my kubernetes learnings here. 
 
 ## Kubernetes namespaces
 Here is my twitter thread.
