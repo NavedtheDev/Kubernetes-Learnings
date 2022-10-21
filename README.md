@@ -1,5 +1,3 @@
-# Kubernetes-Learnings
-
 Hey everyone, I will be sharing my kubernetes learnings here. 
 
 ## Kubernetes namespaces
