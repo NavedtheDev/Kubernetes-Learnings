@@ -1,4 +1,4 @@
-Hey everyone, I will be sharing my kubernetes learnings here. 
+Hey everyone, I will be sharing my kubernetes learnings here. For some topics I have given a link to my twitter threads.
 
 # Kubernetes Architecture
 
