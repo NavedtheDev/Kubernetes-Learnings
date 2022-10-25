@@ -5,7 +5,7 @@ Hey everyone, I will be sharing my kubernetes learnings here. I have summarized 
 ![cluster](https://user-images.githubusercontent.com/98219227/197257174-e7dc537f-d01d-46cb-bd8d-f89657b543e8.png)
 
 
-![control plane](https://user-images.githubusercontent.com/98219227/197791609-58ef3812-84a7-4c9b-aa2f-9380f074aebd.png)
+![control plane](https://user-images.githubusercontent.com/98219227/197792230-16efc8b0-5f8e-4662-92ce-3cf0e21a386f.png)
 
 
 # Kubernetes namespaces
