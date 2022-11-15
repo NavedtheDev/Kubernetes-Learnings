@@ -8,6 +8,9 @@ Hey everyone, I will be sharing my kubernetes learnings here. I have summarized 
 ![control plane](https://user-images.githubusercontent.com/98219227/197792230-16efc8b0-5f8e-4662-92ce-3cf0e21a386f.png)
 
 
+![Worker Node ](https://user-images.githubusercontent.com/98219227/201980133-3144353c-40e0-4df6-9dbc-94170de0328d.png)
+
+
 # Kubernetes namespaces
 Here is my twitter thread.
 Link: https://twitter.com/iam_Naved_/status/1579495321662795776?s=20&t=OM1T3MRO0xFRrPWCyikq9w
