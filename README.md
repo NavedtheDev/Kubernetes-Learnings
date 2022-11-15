@@ -23,3 +23,5 @@ Link: https://twitter.com/iam_Naved_/status/1579495321662795776?s=20&t=OM1T3MRO0
 # Pod Lifecycle
 
 // coming soon
+
+# Init container and multi-container 
