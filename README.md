@@ -10,8 +10,7 @@ Hey everyone, I will be sharing my kubernetes learnings here. I have summarized 
 
 ![Worker Node ](https://user-images.githubusercontent.com/98219227/201980133-3144353c-40e0-4df6-9dbc-94170de0328d.png)
 
-Here is my Twitter thread.
-Link: https://twitter.com/iam_Naved_/status/1592876368194199553
+- My Twitter thread: https://twitter.com/iam_Naved_/status/1592876368194199553
 
 
 # Kubernetes namespaces
